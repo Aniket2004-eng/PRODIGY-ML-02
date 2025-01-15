@@ -1,0 +1,1 @@
+Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.I have worked on Mall_customers.csv dataset here and found out interesting insights from them.
